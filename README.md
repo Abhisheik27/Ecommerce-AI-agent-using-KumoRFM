@@ -12,7 +12,7 @@ This agent is designed for both technical and non-technical users:
 
 The agent uses a graph-based workflow to route queries to the right tool, ensuring flexible and context-aware responses. The workflow is visualized below:
 
-![Agent Graph](Flowchart.jpeg)
+![Agent Graph](Flowchart/Flowchart.jpeg)
 
 ## Key Terms and Features
 
